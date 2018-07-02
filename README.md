@@ -1,3 +1,3 @@
 # BehatWeb01
 
-a basic setup and test.
+a basic working setup and test of wikipedia search based on Behat tutorial.
